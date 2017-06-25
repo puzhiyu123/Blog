@@ -6,7 +6,7 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 
-class Reply extends Controller
+class RepliesController extends Controller
 {
     //
 }
